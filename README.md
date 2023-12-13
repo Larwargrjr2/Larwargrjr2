@@ -1,20 +1,17 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Olá, sou Anurag. Eu contribuo para código aberto!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
-
-Sou um desenvolvedor FrontEnd apaixonado e autodidata do brasil
+Sou um desenvolvedor Frontend apaixonado e autodidata do Brasil.
 Sobre mim
 
-💼 Engenheiro FrontEnd na Razorpay
+💼 Engenheiro Frontend na Razorpay
 
-📈 Criação de github-readme-stats, verlyjs e muito mais, mais de 50 milhões de acessos • 50 mil estrelas no GitHub
+📈 Criei o github-readme-stats, verlyjs e muito mais, com **mais de 50 milhões** de acessos • **50 mil** estrelas no GitHub
 
 ❤️ Adoro escrever TypeScript e criar experimentos divertidos em nível de tipo
 
-💬 Pergunte-me sobre qualquer coisa aqui
-
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+💬 Pergunte-me sobre qualquer coisa [aqui](https://github.com/anuraghazra/anuraghazra/issues)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -23,10 +20,10 @@ Sobre mim
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estatísticas do GitHub de Anurag" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
+#### Principais Repositórios
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
