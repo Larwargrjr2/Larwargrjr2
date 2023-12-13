@@ -1,4 +1,5 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Olá, sou Anurag. Eu contribuo para código aberto!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="  User
+Olá, sou Gianni Grazioli Júnior, desenvolvedor entusiasta de códigos abertos. Estou sempre buscando desafios inovadores para aplicar meu conhecimento em soluções eficientes. Pronto para colaborar em projetos que impulsionem o mundo do software livre. " src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
