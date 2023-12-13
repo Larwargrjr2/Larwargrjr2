@@ -6,7 +6,7 @@ Olá, sou Gianni Grazioli Júnior, desenvolvedor entusiasta de códigos abertos.
 Sou um desenvolvedor Frontend apaixonado e autodidata do Brasil.
 Sobre mim
 
-💼 Engenheiro Frontend na Razorpay
+💼 fullstack autônomo.
 
 📈 Criei o github-readme-stats, verlyjs e muito mais, com **mais de 50 milhões** de acessos • **50 mil** estrelas no GitHub
 
