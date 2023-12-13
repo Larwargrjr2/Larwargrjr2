@@ -1,6 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="  
-Olá, sou Gianni Grazioli Júnior, desenvolvedor entusiasta de códigos abertos. Estou sempre buscando desafios inovadores para aplicar meu conhecimento em soluções eficientes. Pronto para colaborar em projetos que impulsionem o mundo do software livre" src="./assets/gh-readme-header.png" /></a></p>
-
+<p align="center"><a href="https://github.com/Larwargrjr2/sds1-Larwargrjr2.git"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 <br />
 
 Sou um desenvolvedor Frontend apaixonado e autodidata do Brasil.
