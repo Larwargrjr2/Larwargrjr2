@@ -2,7 +2,8 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+
+Sou um desenvolvedor FrontEnd apaixonado e autodidata do brasil
 
 **About me**
 
