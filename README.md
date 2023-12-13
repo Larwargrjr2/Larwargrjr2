@@ -4,14 +4,15 @@
 
 
 Sou um desenvolvedor FrontEnd apaixonado e autodidata do brasil
+Sobre mim
 
-**About me**
+💼 Engenheiro FrontEnd na Razorpay
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+📈 Criação de github-readme-stats, verlyjs e muito mais, mais de 50 milhões de acessos • 50 mil estrelas no GitHub
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+❤️ Adoro escrever TypeScript e criar experimentos divertidos em nível de tipo
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+💬 Pergunte-me sobre qualquer coisa aqui
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
