@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Larwargrjr2/sds1-Larwargrjr2.git"><img width="80%" alt="Olá, meu nome é Gianni. Eu faço código aberto!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/Larwargrjr2/sds1-Larwargrjr2/blob/master/README.md"><img width="80%" alt="Olá, meu nome é Gianni. Eu faço código aberto!" src="./assets/gh-readme-header.png" /></a></p>
 <br />
 
 Sou um desenvolvedor Frontend apaixonado e autodidata do Brasil.
