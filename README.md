@@ -1,81 +1,742 @@
-<p align="center"><a href="https://github.com/Larwargrjr2/sds1-Larwargrjr2/blob/master/README.md"><img width="80%" alt="Olá, meu nome é Gianni. Eu faço código aberto!" src="./assets/gh-readme-header.png" /></a></p>
-<br />
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/drawing_larwargrjr0312/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gianni.grazioli.73/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianni-grazioli-junior-006a99164/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0078D4,50:0067B8,100:003E6B&text=GIANNI%20GRAZIOLI%20JÚNIOR&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20CLOUD%20%7C%20AZURE%20%7C%20DEVOPS&descAlignY=57&descSize=18&animation=fadeIn"/>
 
+<br/>
 
-Sou um desenvolvedor Frontend apaixonado e autodidata do Brasil.
-Sobre mim
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=1000&lines=Software+Engineering;Full+Stack+Development;Java+%7C+Spring+Boot+%7C+Node.js;React+%7C+Angular+%7C+TypeScript;Microsoft+Azure+%7C+Cloud+Computing;Docker+%7C+CI%2FCD+%7C+DevOps;APIs+%7C+SQL+%7C+NoSQL;Architecture+%7C+Automation+%7C+Security" alt="Typing SVG"/>
 
-💼 fullstack autônomo.
+<br/><br/>
 
-📈 Criei o github-readme-stats, verlyjs e muito projetos inovadosres estrelas no GitHub
-
-❤️ Adoro escrever TypeScript e criar experimentos divertidos em nível diferente e de tipo variados.  
-
-💬 Pergunte-me sobre qualquer coisa aqui](https://github.com/Larwargrjr2/Larwargrjr2/issues)
-
-## Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block"> 
-  
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img align="center" alt="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="c%2B%2B" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img align="center" alt="C%23" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C%23&logoColor=white" />
-  </div><br/>
-
-### Principais Ferramentras 
-
-<img align="center" alt="Microsoft_PowerBI" src="https://img.shields.io/badge/Microsoft_PowerBI-F7DF1E?style=for-the-badge&logo=PowerBI&logoColor=black"/>
-<img align="center" alt="Microsoft_Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img align="center" alt="Microsoft_PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-<img align="center" alt="Microsoft_Access" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />
-<img align="center" alt="Microsoft_SQL_Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-<img align="center" alt="Microsoft_Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-<img align="center" alt="Microsoft_SharePoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
-<img align="center" alt="Microsoft_Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-<img align="center" alt="" src="" />
-
-
-| <a href="https://github.com/Larwargrjr2/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Larwargrjr2&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estatísticas do GitHub de Larwargrjr2" /></a> | <a href="https://github.com/Larwargrjr2/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larwargrjr2&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Principais Repositórios
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/Larwargrjr2">
+<img src="https://img.shields.io/badge/GitHub-Larwargrjr2-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://www.linkedin.com/in/gianni-grazioli-junior-006a99164/">
+<img src="https://img.shields.io/badge/LinkedIn-Gianni%20Grazioli%20Júnior-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/drawing_larwargrjr0312/">
+<img src="https://img.shields.io/badge/Instagram-drawing__larwargrjr0312-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/gianni.grazioli.73/">
+<img src="https://img.shields.io/badge/Facebook-Gianni%20Grazioli-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<br />
-<br />
+<br/><br/>
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<img src="https://komarev.com/ghpvc/?username=Larwargrjr2&style=for-the-badge&color=0078D4&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+# 👋 Olá, eu sou Gianni
+
+### Full Stack Developer focado em construir software de ponta a ponta.
+
+Atuo no ecossistema de desenvolvimento de software trabalhando com **Frontend, Backend, APIs, Bancos de Dados, Containers, Cloud e DevOps**.
+
+Meu stack combina tecnologias como **Java, Spring Boot, Node.js, TypeScript, React, Angular, SQL, MongoDB, Docker e Microsoft Azure**, além de ferramentas voltadas para versionamento, automação, integração e entrega de software.
+
+Tenho interesse especial em transformar requisitos em sistemas bem estruturados, conectando **código, arquitetura, dados, infraestrutura e automação**.
+
+```text
+                    ┌─────────────────────────────┐
+                    │         GIANNI DEV          │
+                    │     FULL STACK ENGINEER     │
+                    └──────────────┬──────────────┘
+                                   │
+             ┌─────────────────────┼─────────────────────┐
+             │                     │                     │
+             ▼                     ▼                     ▼
+         FRONTEND              BACKEND               CLOUD
+             │                     │                     │
+       React / Angular        Java / Spring         Azure
+       TypeScript             Node.js               Storage
+       HTML / CSS             Python                Compute
+             │                     │                     │
+             └─────────────────────┼─────────────────────┘
+                                   │
+                                   ▼
+                           DATA & INTEGRATION
+                                   │
+                         SQL / NoSQL / REST
+                                   │
+                                   ▼
+                           DEVOPS & DELIVERY
+                                   │
+                      Git / Docker / CI/CD
+                                   │
+                                   ▼
+                       SOFTWARE ENGINEERING
+```
+
+---
+
+# 🚀 O que eu faço
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+## 💻
+
+### Full Stack
+
+Aplicações completas do Frontend ao Backend.
+
+</td>
+
+<td width="25%" align="center">
+
+## ☁️
+
+### Cloud
+
+Soluções e estudos utilizando Microsoft Azure.
+
+</td>
+
+<td width="25%" align="center">
+
+## ⚙️
+
+### DevOps
+
+Versionamento, containers, pipelines e automação.
+
+</td>
+
+<td width="25%" align="center">
+
+## 🏗️
+
+### Engineering
+
+Arquitetura, APIs, qualidade e evolução de software.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎯 Meu foco tecnológico
+
+<div align="center">
+
+### BUILD
+
+`Frontend` → `Backend` → `Database` → `API`
+
+### SHIP
+
+`Git` → `Docker` → `CI/CD` → `Deploy`
+
+### SCALE
+
+`Cloud` → `Azure` → `Monitoring` → `Automation`
+
+### PROTECT
+
+`Authentication` → `Authorization` → `RBAC` → `Security`
+
+</div>
+
+---
+
+# 🧱 Tech Stack
+
+## Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,angular,bootstrap"/>
+
+</div>
+
+`HTML5` • `CSS3` • `Sass` • `JavaScript` • `TypeScript` • `React` • `Angular` • `AngularJS` • `Bootstrap`
+
+---
+
+## Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,php,cs,c,cpp"/>
+
+</div>
+
+`Java` • `Spring` • `Spring Boot` • `Node.js` • `Python` • `PHP` • `C` • `C++` • `C#`
+
+---
+
+## Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
+</div>
+
+`SQL` • `MySQL` • `PostgreSQL` • `SQL Server` • `MongoDB`
+
+---
+
+## Cloud & DevOps
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions"/>
+
+</div>
+
+`Microsoft Azure` • `Docker` • `Docker Compose` • `Kubernetes` • `GitHub Actions` • `Azure DevOps` • `CI/CD`
+
+---
+
+## Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux,windows,npm,maven,gradle"/>
+
+</div>
+
+`Git` • `GitHub` • `VS Code` • `IntelliJ IDEA` • `Postman` • `Linux` • `Windows` • `npm` • `Maven` • `Gradle`
+
+---
+
+# 🧠 Arquitetura de uma aplicação
+
+```text
+                         USER
+                          │
+                          ▼
+                    ┌───────────┐
+                    │ Frontend  │
+                    │React/     │
+                    │Angular    │
+                    └─────┬─────┘
+                          │
+                          ▼
+                    ┌───────────┐
+                    │ REST API  │
+                    │ HTTP/JSON │
+                    └─────┬─────┘
+                          │
+                          ▼
+                    ┌───────────┐
+                    │ Backend   │
+                    │Java/Node  │
+                    │Spring     │
+                    └─────┬─────┘
+                          │
+              ┌───────────┴───────────┐
+              ▼                       ▼
+       ┌────────────┐          ┌────────────┐
+       │ SQL        │          │ NoSQL      │
+       │ PostgreSQL │          │ MongoDB    │
+       │ MySQL      │          │            │
+       └────────────┘          └────────────┘
+                          │
+                          ▼
+                    ┌───────────┐
+                    │ Docker    │
+                    └─────┬─────┘
+                          │
+                          ▼
+                    ┌───────────┐
+                    │ CI / CD   │
+                    └─────┬─────┘
+                          │
+                          ▼
+                    ┌───────────┐
+                    │ Microsoft │
+                    │ Azure     │
+                    └───────────┘
+```
+
+---
+
+# ☕ Java & Spring
+
+Meu ecossistema Java está direcionado principalmente para desenvolvimento de aplicações e APIs.
+
+```text
+Java
+ │
+ ├── OOP
+ ├── Collections
+ ├── Streams
+ ├── Lambdas
+ ├── Exceptions
+ │
+ └── Spring
+      ├── Spring Boot
+      ├── Spring Web
+      ├── REST APIs
+      ├── JPA
+      ├── Hibernate
+      └── JDBC
+```
+
+**Ferramentas:** `Maven` • `Gradle`
+
+---
+
+# 🔌 APIs & Integrações
+
+```text
+REQUEST
+   │
+   ▼
+HTTP
+   │
+   ▼
+ENDPOINT
+   │
+   ▼
+AUTHENTICATION
+   │
+   ▼
+BUSINESS LOGIC
+   │
+   ▼
+DATABASE
+   │
+   ▼
+JSON
+   │
+   ▼
+RESPONSE
+```
+
+### Conhecimentos
+
+`REST` • `HTTP` • `JSON` • `GET` • `POST` • `PUT` • `PATCH` • `DELETE` • `Headers` • `Status Codes` • `Tokens` • `Authentication` • `Validation` • `Postman`
+
+---
+
+# ☁️ Microsoft Azure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure"/>
+
+</div>
+
+### Azure
+
+`Virtual Machines` • `Storage` • `Azure SQL` • `Resource Groups` • `Azure Monitor` • `Azure Policy` • `Azure CLI` • `Microsoft Entra ID` • `RBAC`
+
+### Cloud Mindset
+
+```text
+COMPUTE
+   +
+STORAGE
+   +
+DATABASE
+   +
+IDENTITY
+   +
+SECURITY
+   +
+GOVERNANCE
+   +
+MONITORING
+   +
+AUTOMATION
+```
+
+### Áreas de estudo
+
+Cloud Computing • Compute • Storage • Databases • Identity • Governance • Monitoring • Security • Access Control • Resource Management • Cost Optimization • Automation
+
+---
+
+# 🐳 DevOps & CI/CD
+
+```text
+┌─────────┐
+│  CODE   │
+└────┬────┘
+     ↓
+┌─────────┐
+│  GIT    │
+└────┬────┘
+     ↓
+┌─────────┐
+│   PR    │
+└────┬────┘
+     ↓
+┌─────────┐
+│  TEST   │
+└────┬────┘
+     ↓
+┌─────────┐
+│  BUILD  │
+└────┬────┘
+     ↓
+┌─────────┐
+│ DOCKER  │
+└────┬────┘
+     ↓
+┌─────────┐
+│ CI / CD │
+└────┬────┘
+     ↓
+┌─────────┐
+│ DEPLOY  │
+└────┬────┘
+     ↓
+┌────────────┐
+│ MONITORING │
+└────────────┘
+```
+
+### Tecnologias
+
+`Git` • `GitHub` • `Docker` • `Docker Compose` • `Kubernetes` • `GitHub Actions` • `Azure DevOps`
+
+---
+
+# 🔐 Security by Design
+
+Segurança deve acompanhar a aplicação desde sua construção até sua operação.
+
+```text
+APPLICATION
+     │
+     ├── Authentication
+     ├── Authorization
+     ├── Validation
+     ├── Secrets
+     ├── Environment Variables
+     └── API Security
+             │
+             ▼
+           CLOUD
+             │
+             ├── Identity
+             ├── RBAC
+             ├── Access Control
+             └── Least Privilege
+```
+
+---
+
+# 🧪 Qualidade de Software
+
+```text
+        CLEAN CODE
+             │
+             ▼
+         TESTABILITY
+             │
+             ▼
+        REFACTORING
+             │
+             ▼
+          SECURITY
+             │
+             ▼
+        MAINTAINABILITY
+             │
+             ▼
+          DELIVERY
+```
+
+Conhecimentos em:
+
+`Unit Testing` • `Integration Testing` • `API Testing` • `Debugging` • `Logging` • `Exception Handling` • `Clean Code` • `SOLID` • `Refactoring` • `Documentation`
+
+---
+
+# 🏗️ Engenharia de Software
+
+### Princípios
+
+`SOLID` • `Clean Code` • `Design Patterns` • `Layered Architecture` • `MVC` • `REST` • `Modularization` • `Separation of Concerns` • `Componentization` • `Scalability` • `Performance` • `Security` • `Observability`
+
+---
+
+# 🌟 Projetos em Destaque
+
+> Projetos práticos são a parte central deste perfil. Cada repositório representa uma etapa da minha evolução técnica.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏛️ Construindo Arquiteturas no Azure
+
+Fundamentos de arquitetura e organização de soluções utilizando Microsoft Azure.
+
+**Stack**
+
+`Azure` `Cloud` `Architecture`
+
+🔗 [Abrir repositório](https://github.com/Larwargrjr2/construindo-arquiteturas-azure)
+
+</td>
+
+<td width="50%">
+
+### 💾 Dominando o Armazenamento no Azure
+
+Estudos práticos envolvendo armazenamento e organização de recursos Cloud.
+
+**Stack**
+
+`Azure` `Storage` `Cloud`
+
+🔗 [Abrir repositório](https://github.com/Larwargrjr2/dominando-armazenamento-azure)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 Segurança e Identidade no Azure
+
+Estudos sobre identidade, segurança, permissões e controle de acesso.
+
+**Stack**
+
+`Azure` `Security` `Identity` `RBAC`
+
+🔗 [Abrir repositório](https://github.com/Larwargrjr2/entendendo-seguranca-identidade-azure)
+
+</td>
+
+<td width="50%">
+
+### 💰 Otimizando Custos no Azure
+
+Fundamentos de gerenciamento e otimização de custos em ambientes Cloud.
+
+**Stack**
+
+`Azure` `Cloud` `Cost Optimization`
+
+🔗 [Abrir repositório](https://github.com/Larwargrjr2/otimizando-custos-azure)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📋 Gerenciando Políticas e Acessos
+
+Governança, políticas, permissões e gerenciamento de recursos.
+
+**Stack**
+
+`Azure` `Governance` `RBAC`
+
+🔗 [Abrir repositório](https://github.com/Larwargrjr2/gerenciando-politicas-acessos-azure)
+
+</td>
+
+<td width="50%">
+
+### 🚀 Ferramentas de Implantação no Azure
+
+Estudos relacionados à implantação e gerenciamento de soluções na plataforma Azure.
+
+**Stack**
+
+`Azure` `Deployment` `Cloud`
+
+🔗 [Abrir repositório](https://github.com/Larwargrjr2/ferramentas-implantacao-azure)
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔭 Próximos Projetos
+
+Meu objetivo é avançar dos laboratórios individuais para projetos que integrem múltiplas áreas do ecossistema.
+
+### 01 — Full Stack
+
+```text
+React / Angular
+      ↓
+TypeScript
+      ↓
+REST API
+      ↓
+Java / Spring Boot
+      ↓
+SQL / MongoDB
+      ↓
+Docker
+      ↓
+CI/CD
+      ↓
+Azure
+```
+
+### 02 — Cloud Native
+
+```text
+Application
+      ↓
+Container
+      ↓
+Cloud Infrastructure
+      ↓
+Identity
+      ↓
+Security
+      ↓
+Monitoring
+      ↓
+Automation
+```
+
+### 03 — DevOps
+
+```text
+GitHub
+  ↓
+Pull Request
+  ↓
+Tests
+  ↓
+Build
+  ↓
+Docker
+  ↓
+Pipeline
+  ↓
+Deployment
+  ↓
+Monitoring
+```
+
+---
+
+# 📚 Atualmente Estudando
+
+<div align="center">
+
+`FULL STACK` `JAVA` `SPRING BOOT` `APIs` `AZURE` `CLOUD` `DOCKER` `DEVOPS` `CI/CD` `ARCHITECTURE` `SECURITY` `DATABASES` `AUTOMATION`
+
+</div>
+
+```text
+FULL STACK DEVELOPMENT
+        ↓
+SOFTWARE ARCHITECTURE
+        ↓
+CLOUD COMPUTING
+        ↓
+MICROSOFT AZURE
+        ↓
+DEVOPS & CI/CD
+        ↓
+CONTAINERS
+        ↓
+SECURITY
+        ↓
+SCALABILITY
+```
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larwargrjr2&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larwargrjr2&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Larwargrjr2&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Larwargrjr2&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Larwargrjr2/Larwargrjr2/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 🌎 Onde me encontrar
+
+<div align="center">
+
+<a href="https://github.com/Larwargrjr2">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/gianni-grazioli-junior-006a99164/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/drawing_larwargrjr0312/">
+<img src="https://img.shields.io/badge/Instagram-@drawing__larwargrjr0312-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/gianni.grazioli.73/">
+<img src="https://img.shields.io/badge/Facebook-Perfil-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 BUILD
+
+**Transformar problemas em software.**
+
+## ☁️ SHIP
+
+**Automatizar, entregar e colocar soluções em produção.**
+
+## 🚀 SCALE
+
+**Criar bases preparadas para evolução.**
+
+## 🔐 PROTECT
+
+**Desenvolver pensando em segurança e confiabilidade.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:003E6B,50:0067B8,100:0078D4&section=footer"/>
+
+### Gianni Grazioli Júnior
+
+**Full Stack Developer | Cloud | Microsoft Azure | DevOps**
+
+⭐ **Explore os repositórios. Conheça os projetos. Acompanhe a evolução.**
+
+</div>
